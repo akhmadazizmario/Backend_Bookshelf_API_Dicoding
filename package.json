@@ -1,0 +1,24 @@
+{
+  "name": "latihan_dicoding_bookshelfapi",
+  "version": "1.0.0",
+  "description": "latihan dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "bookshelfapi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0",
+    "nanoid": "^3.1.23"
+  }
+}
