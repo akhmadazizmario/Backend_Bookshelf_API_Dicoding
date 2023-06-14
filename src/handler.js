@@ -1,7 +1,7 @@
 const { nanoid } = require('nanoid');
 const books = require('./books');
 
-// variable tambahBuku
+// variable tambahBukuku
 const tambahBuku = (request, h) => {
   // mengambil nilai object
   const {
